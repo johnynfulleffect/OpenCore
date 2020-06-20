@@ -23,6 +23,6 @@ BIOS revision: 3004
 
 # Key Updates
 
-The ROG BIOS has no option for the above 4G decoding so I had to disable IncreasePciBarSize in the Kernal -> Quirks and also add npci=0x2000 to NVRAM -> Add boot-args.
+The ROG BIOS has no option for the above 4G decoding so I had to disable `IncreasePciBarSize` in the Kernal : Quirks and also add `npci=0x2000` to NVRAM : Add : boot-args.
 
 Followed the recommended BIOS settings as well as added the HPAT ACPI and patches.
