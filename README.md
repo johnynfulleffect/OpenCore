@@ -1,13 +1,21 @@
 # Hardware
 
 CPU: AMD Ryzen 5 3600 6-Core 4.2Ghz
+
 GPU: Radeon RX Vega 56 8GB RAM
+
 RAM: Kingston HyperX Fury 16GB DDR 3466Mhz
+
 Motherboard: ASUS ROG Strix 450-I AM4
+
 Audio Codec:
+
 Ethernet Card:
+
 Wifi/BT Card:
+
 BIOS revision: 3004
+
 
 # Guide
 
