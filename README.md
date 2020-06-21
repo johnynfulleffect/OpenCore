@@ -8,11 +8,11 @@ RAM: Kingston HyperX Fury 16GB DDR 3466Mhz
 
 Motherboard: ASUS ROG Strix 450-I AM4
 
-Audio Codec:
+Audio Codec: 
 
-Ethernet Card:
+Ethernet Card: 
 
-Wifi/BT Card:
+Wifi/BT Card: BCM94360CS2 + NGFF M.2 Key A/E Adapter
 
 BIOS revision: 3004
 
