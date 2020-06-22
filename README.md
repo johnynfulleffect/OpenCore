@@ -8,7 +8,7 @@ RAM: Kingston HyperX Fury 16GB DDR 3466Mhz
 
 Motherboard: ASUS ROG Strix 450-I AM4
 
-Audio Codec: 
+Audio Codec: AppleALM Profile 7
 
 Ethernet Card: 
 
