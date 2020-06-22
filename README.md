@@ -20,8 +20,11 @@ BIOS revision: 3004
 # Guide
 
 [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html#ryzen-and-threadripper17h)
+
 [Fixing Audio](https://dortania.github.io/OpenCore-Desktop-Guide/post-install/audio.html)
+
 [Adding OpenCore to Your Boot Drive](https://dortania.github.io/oc-laptop-guide/post-installation/adding-opencore-to-the-bios.html)
+
 
 # Key Updates
 
