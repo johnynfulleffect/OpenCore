@@ -20,11 +20,19 @@ BIOS revision: 3004
 # Guide
 
 [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html#ryzen-and-threadripper17h)
+[Fixing Audio](https://dortania.github.io/OpenCore-Desktop-Guide/post-install/audio.html)
+[Adding OpenCore to Your Boot Drive](https://dortania.github.io/oc-laptop-guide/post-installation/adding-opencore-to-the-bios.html)
 
 # Key Updates
 
-- The ROG BIOS has no option for the above 4G decoding so I had to disable `IncreasePciBarSize` in the Kernal : Quirks
+- The BIOS has no option for the above 4G decoding so I had to disable `IncreasePciBarSize` in the Kernal : Quirks
 - Add `npci=0x2000` to NVRAM : Add : boot-args.
 - Add `alcid: 7` to NVRAM : Add : boot-args.
+- Run HPET option in SSDTTime and add ACPI and patches.
 
-Followed the recommended BIOS settings as well as added the HPET ACPI and patches.
+# BIOS Changes
+
+- Disabled Fast Boot
+- In Secure Boot, set to Windows UEFI Mode
+- Disabled CSM
+- Enabled EHCI/XHCI Hand-off
