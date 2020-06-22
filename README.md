@@ -39,3 +39,7 @@ BIOS revision: 3004
 - In Secure Boot, set to Windows UEFI Mode
 - Disabled CSM
 - Enabled EHCI/XHCI Hand-off
+
+# Third Party Fixes
+
+- Adobe Photoshop was quitting upon load.  Ran PS2020 script here: [AdobeFixAMD](https://gist.github.com/XLNCs/86d7a391e46f85a04d28db171656b458)
