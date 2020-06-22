@@ -10,7 +10,7 @@ Motherboard: ASUS ROG Strix 450-I AM4
 
 Audio Codec: AppleALM Profile 7
 
-Ethernet Card: 
+Ethernet Card: Intel I211-AT Gigabit
 
 Wifi/BT Card: BCM94360CS2 + NGFF M.2 Key A/E Adapter
 
