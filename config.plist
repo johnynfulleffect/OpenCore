@@ -1436,7 +1436,7 @@
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
-				<string>en-US:0</string>
+				<data>656e2d55533a30</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
