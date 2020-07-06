@@ -6,7 +6,7 @@ GPU: Radeon RX Vega 56 8GB RAM
 
 RAM: Kingston HyperX Fury 16GB DDR 3466Mhz
 
-Motherboard: ASUS ROG Strix 450-I AM4
+Motherboard: ASUS ROG Strix B450-I AM4
 
 Audio Codec: AppleALM Profile 7
 
