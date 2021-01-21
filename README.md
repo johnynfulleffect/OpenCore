@@ -14,16 +14,14 @@ Ethernet Card: Intel I211-AT Gigabit
 
 Wifi/BT Card: BCM94360CS2 + NGFF M.2 Key A/E Adapter
 
-BIOS revision: 3004
+BIOS revision: 4202
 
 
 # Guide
 
-[OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html#ryzen-and-threadripper17h)
+[OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
 
-[Fixing Audio](https://dortania.github.io/OpenCore-Desktop-Guide/post-install/audio.html)
-
-[Adding OpenCore to Your Boot Drive](https://dortania.github.io/oc-laptop-guide/post-installation/adding-opencore-to-the-bios.html)
+[Fixing Audio](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html#fixing-audio-with-applealc)
 
 
 # Key Updates
